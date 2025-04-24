@@ -4,7 +4,7 @@ Documentação de dicas sobre a Microsoft Azure
 ## Aqui vai 5 dicas para aproveitar melhor o Microsoft Azure!
 
 
-## Aproveite a Conta Gratuita
+### Aproveite a Conta Gratuita
 O Azure oferece uma conta gratuita com créditos iniciais e acesso a mais de 25 serviços gratuitos por 12 meses. É ideal para testes, aprendizagem e até pequenos projetos.
 
 ## Azure Cost Management
